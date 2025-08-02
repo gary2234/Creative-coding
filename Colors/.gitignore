@@ -1,0 +1,16 @@
+# Ignore build outputs
+bin/
+obj/
+*.o
+*.exe
+*.app
+*.dll
+
+# Ignore IDE build junk
+*.log
+*.tmp
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
